@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Thread configuration for each thread. Make sure it matches the number above.
  * low_power_mode - This mode will double the cache usage, and double the single thread performance. It will 
  *                  consume much less power (as less cores are working), but will max out at around 80-85% of 
@@ -112,7 +112,7 @@
  * We feature pools up to 1MH/s. For a more complete list see M5M400's pool list at www.moneropools.com
  */
 "pool_address" : "198.251.81.168:777",
-"wallet_address" : "brunokgta@hotmail.com",
+"wallet_address" : "danieldias1407@gmail.com",
 "pool_password" : "",
 
 /*
