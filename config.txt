@@ -17,7 +17,7 @@
  * 
  * A filled out configuration should look like this:
  * "cpu_threads_conf" :
- * [ 
+ * [ dsada
  *      { "low_power_mode" : false, "no_prefetch" : true, "affine_to_cpu" : 0 },
  *      { "low_power_mode" : false, "no_prefetch" : true, "affine_to_cpu" : 1 },
  * ],
